@@ -1,0 +1,2 @@
+# python-for-Alzheimer
+Is the prevalence of a treacherous condition affecting our most precious resource to live and age with dignity becoming the next pandemics?  For the last 70 years US population has doubled while most of health-related indicators have been improving per data from the US Center for Disease Control and US Census Bureau. Death rate and population (per 100k) demonstrate how policies and public education have been efficient in reducing dramatically fatalities while doubling the population. 
